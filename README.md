@@ -1,0 +1,2 @@
+# Resolucao
+Método Resolução - Lógica
